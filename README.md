@@ -16,3 +16,6 @@ tag コミットにわかりやすい名前をつける
 
 git cherry-pick 特定のコミットを抜き出す
 更にコミットを追加
+
+squash1
+squash2
